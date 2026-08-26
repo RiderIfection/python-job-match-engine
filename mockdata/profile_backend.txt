@@ -1,0 +1,3 @@
+Python software engineer with experience building REST APIs, SQLite and PostgreSQL databases,
+automated unittest and pytest suites, Docker containers, Linux services, ETL data pipelines,
+cybersecurity monitoring, GitHub Actions, cloud cost analysis and clear technical documentation.

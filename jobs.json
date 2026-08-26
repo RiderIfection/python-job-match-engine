@@ -1,0 +1,5 @@
+[
+  {"id":"J1","title":"Python Backend Engineer","description":"Build Python APIs, SQL services, Docker deployments and automated tests."},
+  {"id":"J2","title":"Data Engineer","description":"Develop Python data pipelines, SQL models, data quality and cloud workflows."},
+  {"id":"J3","title":"Frontend Developer","description":"Create React TypeScript interfaces and accessible CSS design systems."}
+]

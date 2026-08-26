@@ -1,0 +1,62 @@
+[
+  {
+    "id": "UK-JOB-001",
+    "title": "Python Backend Engineer",
+    "description": "Build Python REST APIs, PostgreSQL services, Docker containers and automated tests on Linux."
+  },
+  {
+    "id": "UK-JOB-002",
+    "title": "Junior Data Engineer",
+    "description": "Develop Python ETL data pipelines, SQL transformations, data quality checks and cloud workflows."
+  },
+  {
+    "id": "UK-JOB-003",
+    "title": "Security Automation Analyst",
+    "description": "Automate cybersecurity monitoring with Python, analyse logs and document incident response."
+  },
+  {
+    "id": "UK-JOB-004",
+    "title": "Cloud FinOps Analyst",
+    "description": "Analyse cloud cost data, create rightsizing recommendations and automate reports using Python and SQL."
+  },
+  {
+    "id": "UK-JOB-005",
+    "title": "DevOps Engineer",
+    "description": "Operate Linux services, Docker, CI/CD with GitHub Actions, monitoring and cloud infrastructure."
+  },
+  {
+    "id": "UK-JOB-006",
+    "title": "QA Automation Engineer",
+    "description": "Create automated API tests in Python, maintain CI pipelines and improve software quality."
+  },
+  {
+    "id": "UK-JOB-007",
+    "title": "Database Developer",
+    "description": "Design PostgreSQL schemas, tune SQL queries and build reliable data integrations."
+  },
+  {
+    "id": "UK-JOB-008",
+    "title": "Machine Learning Engineer",
+    "description": "Build Python machine learning pipelines, model APIs, monitoring and cloud deployments."
+  },
+  {
+    "id": "UK-JOB-009",
+    "title": "Technical Support Engineer",
+    "description": "Troubleshoot Windows, networking, identity, SaaS products and customer incidents."
+  },
+  {
+    "id": "UK-JOB-010",
+    "title": "Frontend React Developer",
+    "description": "Create React and TypeScript user interfaces with CSS, accessibility and component testing."
+  },
+  {
+    "id": "UK-JOB-011",
+    "title": "iOS Developer",
+    "description": "Develop Swift mobile applications, UIKit interfaces and App Store delivery pipelines."
+  },
+  {
+    "id": "UK-JOB-012",
+    "title": "Product Designer",
+    "description": "Produce Figma prototypes, design systems, user research and accessible interaction patterns."
+  }
+]
